@@ -19,7 +19,7 @@ A Flutter application that displays the latest news from your country. Users can
 ## Screenshot
 
 <!-- Add a screenshot of your app here when available -->
-<img src="Screenshots\Screenshot 1.jpg" width="200"><img src="Screenshots\Screenshot 2.jpg" width="200"><img src="Screenshots\Screenshot 3.jpg" width="200"><img src="Screenshots\Screenshot 4.jpg" width="200">
+<img src="Screenshots\Screenshot 1.jpg" width="200"> <img src="Screenshots\Screenshot 2.jpg" width="200"> <img src="Screenshots\Screenshot 3.jpg" width="200"> <img src="Screenshots\Screenshot 5.jpg" width="200">
 
 ## Installation
 
